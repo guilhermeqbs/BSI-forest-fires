@@ -3,7 +3,7 @@ Você tem acompanhado a quantidade de queimadas que temos visto ultimamente? Com
 
 Você deverá criar um código OO que armazene as informações sobre cada queimada. Deverá portanto fazer a leitura do data set instanciando os objetos. As queimadas são classificadas de acordo com a área de acontecimento, veja o diagrama abaixo:
 
-![image](C:\Users\Guilherme\Desktop\Diagrama.png)
+![image](https://github.com/guilhermeqbs/BSI-forest-fires/blob/master/Diagrama.png)
 
 Para cada queimada, você deverá armazená-la em um Pilha do mês correspondente. Sendo portanto 12 pilhas existentes no seu código. Você se lembra do Tipo Abstrato de Dados Pilha? Pilha é uma estrutura de dados do tipo LIFO(Last-In-First-Out) em que o último elemento a entrar é o primeiro a sair. Por definição as operações básicas de uma pilha são empilhar e desempilhar. Nesta prova-trabalho você não poderá usar Queue existente de Java, implementando sua própria.
 
